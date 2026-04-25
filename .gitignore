@@ -21,6 +21,7 @@ data/
 # ── Python bytecode ─────────────────────────────────────────────
 __pycache__/
 *.py[cod]
+*.pyc
 *.pyo
 *.pyd
 ...
@@ -28,3 +29,4 @@ __pycache__/
 *.swp
 *.swo
 *.pyc
+.vscode/
