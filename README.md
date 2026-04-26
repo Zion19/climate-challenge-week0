@@ -1,3 +1,4 @@
+````md
 # Climate Challenge Project
 
 ## Environment Setup
@@ -6,3 +7,5 @@
 python -m venv .venv
 source .venv/Scripts/activate  # Git Bash (Windows)
 pip install -r requirements.txt
+```
+````
